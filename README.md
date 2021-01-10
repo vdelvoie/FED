@@ -75,8 +75,8 @@ Oude opdracht van vorig jaar laten zien. Al vrij compleet. Mist alleen nog Javas
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/screenshot1" width="375px" alt="eerste pagina">
+<img src="images/screenshot1.png" width="375px" alt="eerste pagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/screenshot2" width="375px" alt="tweede pagina">
+<img src="images/screenshot2.png" width="375px" alt="tweede pagina">
