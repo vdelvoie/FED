@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 76.6 65.2" style="enable-background:new 0 0 76.6 65.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#99258D;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{fill:#99258D;}
+	.st3{font-family:'MuseoSans-700';}
+	.st4{font-size:3px;}
+	.st5{fill:#99258D;stroke:#99258D;stroke-width:0.25;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M47,34.1H29.6c-1.7,0-3.1-1.4-3.1-3.1V19.7c0-1.7,1.4-3.1,3.1-3.1H47c1.7,0,3.1,1.4,3.1,3.1V31
+		C50.1,32.7,48.7,34.1,47,34.1z"/>
+</g>
+<rect x="32.5" y="30.2" class="st1" width="14.1" height="3.7"/>
+<text transform="matrix(1 0 0 1 30.6235 32.2959)" class="st2 st3 st4">Downloads</text>
+<g>
+	<path class="st5" d="M37.7,18.5c0.1-0.4,0.7-0.4,0.7,0v7.9l2.1-1.9c0.3-0.3,0.8,0.1,0.5,0.5l-2.7,2.6c-0.2,0.2-0.4,0.2-0.6,0
+		l-2.6-2.5c-0.4-0.3,0.2-0.8,0.5-0.5l1.9,1.9L37.7,18.5z"/>
+	<path class="st5" d="M40.6,29h-5.2c-0.2,0-0.4-0.2-0.4-0.4v-0.1c0-0.2,0.2-0.4,0.4-0.4h5.2c0.2,0,0.4,0.2,0.4,0.4v0.1
+		C41,28.8,40.8,29,40.6,29z"/>
+</g>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55 47">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-iPhone_6_7_8_1);
+      }
+
+      .cls-2 {
+        fill: #ffdf5d;
+        stroke: #ffdf5d;
+      }
+
+      .cls-3 {
+        fill: #020303;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-iPhone_6_7_8_1">
+      <rect width="55" height="47"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_6_7_8_1" data-name="iPhone 6/7/8 – 1" class="cls-1">
+    <rect class="cls-6" width="55" height="47"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-2" transform="translate(-0.423 -0.387)">
+      <rect class="cls-4" width="56.094" height="47.743"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="55.094" height="46.743"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" class="cls-3" d="M0,106.15H18.958c-.645-5.5-3.308-9.093-9.473-9.45C3.077,97.057.046,100.307,0,106.15Z" transform="translate(13 -74.5)"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-3" cx="5.831" cy="5.578" rx="5.831" ry="5.578" transform="translate(16.642 9.703)"/>
+    <path id="Path_2" data-name="Path 2" class="cls-3" d="M0,103.745H14.132c-.481-4.1-2.466-6.778-7.062-7.045C2.294,96.966.034,99.389,0,103.745Z" transform="translate(27.47 -76.012)"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" class="cls-3" cx="4.347" cy="4.158" rx="4.347" ry="4.158" transform="translate(30.185 11.372)"/>
+  </g>
+</svg>

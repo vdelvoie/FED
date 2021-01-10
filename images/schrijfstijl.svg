@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55 47">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-iPhone_6_7_8_1);
+      }
+
+      .cls-2 {
+        fill: #ffdf5d;
+        stroke: #ffdf5d;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #020303;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        stroke-width: 3px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-iPhone_6_7_8_1">
+      <rect width="55" height="47"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_6_7_8_1" data-name="iPhone 6/7/8 – 1" class="cls-1">
+    <rect class="cls-7" width="55" height="47"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-2" transform="translate(-0.423 -0.387)">
+      <rect class="cls-5" width="56.094" height="47.743"/>
+      <rect class="cls-6" x="0.5" y="0.5" width="55.094" height="46.743"/>
+    </g>
+    <g id="Group_1" data-name="Group 1" transform="translate(14 9.3)">
+      <path id="Path_36" data-name="Path 36" class="cls-3" d="M4.833,16.306,3.2,24.29l7.077-2L24.794,5.6,19.35.7Z" transform="translate(3.169 -2)"/>
+      <path id="Path_37" data-name="Path 37" class="cls-4" d="M0,0H28.127" transform="translate(0 25.048)"/>
+    </g>
+  </g>
+</svg>
